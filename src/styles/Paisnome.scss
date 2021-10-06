@@ -1,0 +1,44 @@
+body{
+    background-color: #0f032b;
+    font-family: sans-serif;
+}
+.nacionalidaderesultado{
+    color: #E34C17;
+}
+.probabilidaderesultado{
+    color: white;
+}
+
+.divRetornar{
+    display: flex;
+    justify-content: left;
+    align-items: initial;
+    margin-bottom: 80px;
+}
+
+.englobaresult{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.mudarinput{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.mudarbotao{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #FA2549;
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.englobabotao{
+    margin-top: 30px;
+}
