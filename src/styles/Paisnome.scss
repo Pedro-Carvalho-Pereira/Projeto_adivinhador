@@ -1,5 +1,5 @@
 body{
-    background-color: #0f032b;
+    background-color: transparent;
     font-family: sans-serif;
 }
 .nacionalidaderesultado{
@@ -11,7 +11,7 @@ body{
 
 .divRetornar{
     display: flex;
-    justify-content: left;
+    justify-content: space-evenly;
     align-items: initial;
     margin-bottom: 80px;
 }
@@ -42,3 +42,13 @@ body{
 .englobabotao{
     margin-top: 30px;
 }
+.navigator{
+    flex-direction: column;
+    flex: 1;
+    background-color: white;
+}
+.margin120{
+    padding-top: 15%;
+}
+
+
